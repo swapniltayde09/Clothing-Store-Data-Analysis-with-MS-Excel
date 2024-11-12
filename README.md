@@ -9,7 +9,7 @@ in this project, Vrinda Store aims to create an interactive sales report for the
 ## Dataset:
 <a href="https://github.com/swapniltayde09/Clothing-Store-Data-Analysis-with-MS-Excel/blob/main/Vrinda-Store-Data-Analysis-2023-Final.xlsx">Click Here<a/> 
 
-## Key Performance Indicators (KPIs):
+## Key Performance Indicators (KPIs) OR Questions:
 1. Compare sales and order volumes in a single chart.
 2. Identify the month with the highest sales and orders.
 3. Determine which demographic—men or women—purchased more.
@@ -20,3 +20,6 @@ in this project, Vrinda Store aims to create an interactive sales report for the
 8. Determine the highest-selling product category.
 9. Calculate the percentage of total orders delivered.
 10. Ensure dashboard interactivity for an enhanced user experience.
+
+## <a href="https://github.com/swapniltayde09/Clothing-Store-Data-Analysis-with-MS-Excel/blob/main/Vrinda-Store-Annual-Report-2023-Dashboard.png">View Dashboard<a/> 
+
