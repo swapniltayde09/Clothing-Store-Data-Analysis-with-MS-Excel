@@ -22,11 +22,10 @@ in this project, Vrinda Store aims to create an interactive sales report for the
 1. Verified data integrity, addressing missing values and anomalies.
 2. Ensured data consistency and cleanliness, standardizing data types, formats, and values.
 3. Created pivot tables to address each KPI accordingly.
-4. Combined pivot tables into a single dashboard, applying slicers for dynamic interaction. ## <a href="https://github.com/swapniltayde09/Clothing-Store-Data-Analysis-with-MS-Excel/blob/main/Vrinda-Store-Annual-Report-2023-Dashboard.png">View Dashboard<a/> 
+4. Combined pivot tables into a single dashboard, applying slicers for dynamic interaction. <a href="https://github.com/swapniltayde09/Clothing-Store-Data-Analysis-with-MS-Excel/blob/main/Vrinda-Store-Annual-Report-2023-Dashboard.png">View Dashboard<a/> 
 
 ## Dashboard:
 ![Vrinda-Store-Annual-Report-2023-Dashboard](https://github.com/user-attachments/assets/a27885e5-cb04-4a26-b91b-e39796bc28e9)
-
 
 ## Project Insights:
 1. Women constitute approximately 65% of the customer base, showing higher purchasing rates than men.
